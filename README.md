@@ -16,7 +16,7 @@ A port of the de_dust map from Counter Strike 1.6
 
 # IMPORTANT INFO
 
-- The map's model was oringally made by XXXX on sketchfab: 
+- The map's model was oringally made by Zarudko on sketchfab: https://sketchfab.com/3d-models/de-dust-b34e959814ae40549142bca18f4a4caf
 
 # Snail's stuff
 
