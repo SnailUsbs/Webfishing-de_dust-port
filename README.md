@@ -2,10 +2,12 @@
 A port of the de_dust map from Counter Strike 1.6
 
 
-The area you spawn in has some water to fish in, the quest board, bait shop, and all 3 cabins, with the rest of the map being the normal dust map with no new webfishing additions.
+- The area you spawn in has some water to fish in, the quest board, bait shop, and all 3 cabins, with the rest of the map being the normal dust map with no new webfishing additions.
+
 ![](https://github.com/SnailUsbs/Webfishing-de_dust-port/blob/main/de_dust%20showcase/Dust_spawn.gif)
 
-I also made it to where you can get in the water without dying
+- I also made it to where you can get in the water without dying
+
 ![](https://github.com/SnailUsbs/Webfishing-de_dust-port/blob/main/de_dust%20showcase/Dust_water.gif)
 
 **Thunderstore page:** If you are reading this, its because you are already on the thunderstore page 
