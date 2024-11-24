@@ -19,6 +19,12 @@ A port of the de_dust map from Counter Strike 1.6
 
 - The map's model was oringally made by Zarudko on sketchfab: https://sketchfab.com/3d-models/de-dust-b34e959814ae40549142bca18f4a4caf
 
+# V1.0.3 CHANGE LOG:
+- Fixed the broken return to spawn glitch
+
+- Made webfishing's extra zones not visible 
+
+
 # Snail's stuff
 
 - If you find a bug with one of my mods, have suggestions for them, or just want keep up to date with any updates or new mods I put out then you can check out my discord server or twitter below
