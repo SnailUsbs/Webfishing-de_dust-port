@@ -1,6 +1,7 @@
   # Webfishing de_dust port
 A port of the de_dust map from Counter Strike 1.6
 
+![](https://github.com/SnailUsbs/Webfishing-de_dust-port/blob/main/de_dust%20showcase/Dust_showcase.png)
 
 - The area you spawn in has some water to fish in, the quest board, bait shop, and all 3 cabins, with the rest of the map being the normal dust map with no new webfishing additions.
 
