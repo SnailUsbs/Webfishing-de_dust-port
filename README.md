@@ -10,6 +10,10 @@ I also made it to where you can get in the water without dying
 
 **Github page:** https://github.com/SnailUsbs/Webfishing-de_dust-port/tree/main
 
+# IMPORTANT INFO
+
+- The map's model was oringally made by XXXX on sketchfab: 
+
 # Snail's stuff
 
 - If you find a bug with one of my mods, have suggestions for them, or just want keep up to date with any updates or new mods I put out then you can check out my discord server or twitter below
