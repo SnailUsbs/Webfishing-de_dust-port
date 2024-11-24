@@ -12,6 +12,7 @@ A port of the de_dust map from Counter Strike 1.6
 ![](https://github.com/SnailUsbs/Webfishing-de_dust-port/blob/main/de_dust%20showcase/Dust_water.gif)
 
 **Thunderstore page:** https://thunderstore.io/c/webfishing/p/SnailUSB/de_dust/
+
 **Github page:** https://github.com/SnailUsbs/Webfishing-de_dust-port/tree/main
 
 # IMPORTANT INFO
